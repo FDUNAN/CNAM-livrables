@@ -10,18 +10,18 @@ Le rapport de projet est dans le dossier [NFE204-rapport](https://github.com/fdu
 
 ## Projet STA211 - Entreposage et fouille de données
 
-* La synthèse de cours est dans le dossier [STA211-synthèse](https://github.com/fdunan/CNAM-livrables/blob/master/STA211/synthese_cours/CNAM_STA211-Synthese_cours-PROBTP-fabrice_dunan.pdf).
+* La synthèse de cours peut etre obtenu ci apres : [STA211-synthèse](https://github.com/fdunan/CNAM-livrables/blob/master/STA211/synthese_cours/CNAM_STA211-Synthese_cours-PROBTP-fabrice_dunan.pdf).
 
-* Le rapport de projet est dans le dossier [STA211-rapport](https://github.com/fdunan/CNAM-livrables/STA211/rapport_projet).(**à venir**).
+* Le rapport de projet epeut etre obtenu ci apres : [STA211-rapport](https://github.com/fdunan/CNAM-livrables/STA211/rapport_projet).(**à venir**).
 
 ## Projet RCP216 - Ingénierie de la fouille et de la visualisation de données massives
 
-Le rapport de projet est dans le dossier [RCP216](https://github.com/fdunan/CNAM-livrables/blob/master/RCP216/CNAM_RCP216-rapport_JLL_FD_PROBTP.pdf).
+Le rapport de projet (*) peut etre obtenu ci apres : [RCP216-rapport](https://github.com/fdunan/CNAM-livrables/blob/master/RCP216/CNAM_RCP216-rapport_JLL_FD_PROBTP.pdf).
 
 ## Projet UASB03 - Projet certificat analyste de données massives 
 
-Le rapport de projet est dans le dossier [UASB03](https://github.com/fdunan/CNAM-livrables/blob/master/UASB03/CNAM_UASB03-rapport_RLE_FDU_PROBTP.pdf).
+Le rapport de projet (*) peut etre obtenu ci apres : [UASB03-rapport](https://github.com/fdunan/CNAM-livrables/blob/master/UASB03/CNAM_UASB03-rapport_RLE_FDU_PROBTP.pdf).
 
 ## Contact
 
-L'auteur [Fabrice DUNAN](fabrice.dunan@laposte.net)
+L'auteur peut etre contacté à cette adresse : [Fabrice DUNAN](fabrice.dunan at laposte.net)
