@@ -2,7 +2,7 @@
 
 Ce dépot contient l'ensemble des rapports à fournir  pour l'obtention du [certificat d'analyse de données massives du CNAM](http://formation.cnam.fr/rechercher-par-discipline/certificat-de-specialisation-analyste-de-donnees-massives-669531.kjsp).
 
-Les rapports de projets marqués d'une (*) ont été réalisés en binômes.
+Les rapports de projets marqués d'une (*) ont été réalisés en binôme.
 
 ## Projet NFE204 - base de données documentaires (NOSQL)
 
@@ -12,7 +12,7 @@ Le rapport de projet est dans le dossier [NFE204-rapport](https://github.com/fdu
 
 * La synthèse de cours peut etre obtenu ci apres : [STA211-synthèse](https://github.com/fdunan/CNAM-livrables/blob/master/STA211/synthese_cours/CNAM_STA211-Synthese_cours-PROBTP-fabrice_dunan.pdf).
 
-* Le rapport de projet epeut etre obtenu ci apres : [STA211-rapport](https://github.com/fdunan/CNAM-livrables/STA211/rapport_projet).(**à venir**).
+* Le rapport de projet epeut etre obtenu ci apres : [STA211-rapport](https://github.com/fdunan/CNAM-livrables/STA211/rapport_projet).
 
 ## Projet RCP216 - Ingénierie de la fouille et de la visualisation de données massives
 
